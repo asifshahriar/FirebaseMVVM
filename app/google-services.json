@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "608034195040",
+    "firebase_url": "https://fir-mvvm-f3997.firebaseio.com",
+    "project_id": "fir-mvvm-f3997",
+    "storage_bucket": "fir-mvvm-f3997.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608034195040:android:ce58fb17c53dffc02d2505",
+        "android_client_info": {
+          "package_name": "com.as_lab.firebasemvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608034195040-nsrp1qapjqigtrjcjlf9hakvp48ac5tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbCh1q_qgB7qqtQhH-tXaDH6dqG_X0TO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608034195040-nsrp1qapjqigtrjcjlf9hakvp48ac5tf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
